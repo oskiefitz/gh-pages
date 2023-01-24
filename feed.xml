@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>oskie</title>
+    <link href="https://oskiefitz.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://oskiefitz.github.io/gh-pages" />
+    <updated>2023-01-24T14:28:42+00:00</updated>
+    <author>
+        <name>oskie</name>
+    </author>
+    <id>https://oskiefitz.github.io/gh-pages</id>
+
+    <entry>
+        <title>Oskie</title>
+        <author>
+            <name>oskie</name>
+        </author>
+        <link href="https://oskiefitz.github.io/gh-pages/oskie.html"/>
+        <id>https://oskiefitz.github.io/gh-pages/oskie.html</id>
+
+        <updated>2023-01-24T14:28:42+00:00</updated>
+            <summary>
+                <![CDATA[
+                    lorum ipsum ddd lorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum ddd lorum ipsum ddd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>lorum ipsum ddd lorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum ddd</p>
+<h2>lorum ipsum ddd</h2>
+<figure class="post__image"><img loading="lazy"  src="https://oskiefitz.github.io/gh-pages/media/posts/1/IMG_0526.PNG" alt="image" width="441" height="588" sizes="100vw" srcset="https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-xs.PNG 300w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-sm.PNG 480w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-md.PNG 768w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-lg.PNG 1024w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-xl.PNG 1360w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-2xl.PNG 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

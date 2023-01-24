@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "oskie",
+    "description": "",
+    "home_page_url": "https://oskiefitz.github.io/gh-pages",
+    "feed_url": "https://oskiefitz.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "oskie"
+    },
+    "items": [
+        {
+            "id": "https://oskiefitz.github.io/gh-pages/oskie.html",
+            "url": "https://oskiefitz.github.io/gh-pages/oskie.html",
+            "title": "Oskie",
+            "summary": "lorum ipsum ddd lorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum ddd lorum ipsum ddd",
+            "content_html": "<p>lorum ipsum ddd lorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum ddd</p>\n<h2>lorum ipsum ddd</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://oskiefitz.github.io/gh-pages/media/posts/1/IMG_0526.PNG\" alt=\"image\" width=\"441\" height=\"588\" sizes=\"100vw\" srcset=\"https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-xs.PNG 300w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-sm.PNG 480w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-md.PNG 768w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-lg.PNG 1024w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-xl.PNG 1360w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-2xl.PNG 1600w\"></figure>",
+            "author": {
+                "name": "oskie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-24T14:28:42+00:00",
+            "date_modified": "2023-01-24T14:28:42+00:00"
+        }
+    ]
+}
