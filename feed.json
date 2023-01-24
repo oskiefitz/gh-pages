@@ -5,6 +5,7 @@
     "home_page_url": "https://oskiefitz.github.io/gh-pages",
     "feed_url": "https://oskiefitz.github.io/gh-pages/feed.json",
     "user_comment": "",
+    "icon": "https://oskiefitz.github.io/gh-pages/media/website/IMG_0526-2.PNG",
     "author": {
         "name": "oskie"
     },
@@ -27,15 +28,15 @@
             "id": "https://oskiefitz.github.io/gh-pages/oskie.html",
             "url": "https://oskiefitz.github.io/gh-pages/oskie.html",
             "title": "Oskie",
-            "summary": "lorum ipsum ddd lorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum ddd lorum ipsum ddd",
-            "content_html": "<p>lorum ipsum ddd lorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum ddd</p>\n<h2>lorum ipsum ddd</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://oskiefitz.github.io/gh-pages/media/posts/1/IMG_0526.PNG\" alt=\"image\" width=\"441\" height=\"588\" sizes=\"100vw\" srcset=\"https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-xs.PNG 300w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-sm.PNG 480w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-md.PNG 768w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-lg.PNG 1024w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-xl.PNG 1360w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-2xl.PNG 1600w\"></figure>",
+            "summary": "lorum ipsum ddd lorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum he je fj jkkjaldf ijfsdlaj liduf sjkfh;ifu; fus f;jaOHF FAH FJKS; DF;SJF HS;JFH ",
+            "content_html": "<p>lorum ipsum ddd lorum ipsum dddlorum ipsum dddlorum ipsum dddlorum ipsum </p>\n<h2>lorum ipsum ddd</h2>\n<p><img loading=\"lazy\" src=\"https://oskiefitz.github.io/gh-pages/media/posts/1/IMG_0526.PNG\" alt=\"image\" width=\"441\" height=\"588\" sizes=\"100vw\" srcset=\"https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-xs.PNG 300w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-sm.PNG 480w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-md.PNG 768w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-lg.PNG 1024w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-xl.PNG 1360w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/IMG_0526-2xl.PNG 1600w\"></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://oskiefitz.github.io/gh-pages/media/posts/1/betterone.png\" alt=\"\" width=\"3819\" height=\"2053\" sizes=\"100vw\" srcset=\"https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/betterone-xs.png 300w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/betterone-sm.png 480w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/betterone-md.png 768w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/betterone-lg.png 1024w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/betterone-xl.png 1360w ,https://oskiefitz.github.io/gh-pages/media/posts/1/responsive/betterone-2xl.png 1600w\"></figure>\n<p>he je fj jkkjaldf ijfsdlaj liduf sjkfh;ifu; fus f;jaOHF FAH FJKS; DF;SJF HS;JFH </p>",
             "author": {
                 "name": "oskie"
             },
             "tags": [
             ],
             "date_published": "2023-01-24T14:28:42+00:00",
-            "date_modified": "2023-01-24T14:28:42+00:00"
+            "date_modified": "2023-01-24T14:40:00+00:00"
         }
     ]
 }
